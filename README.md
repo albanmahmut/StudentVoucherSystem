@@ -6,5 +6,4 @@ Student Voucher System in java by using netbeans. This software can generate a v
 
 
 
-[Link to Project](https://github.com/albanmahmut/StudentVoucherSystem/tree/master/S_V_System) 
-
+https://albanmahmut.github.io/StudentVoucherSystem/
